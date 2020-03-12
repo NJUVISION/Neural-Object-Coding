@@ -1,0 +1,41 @@
+title: Neural Object Coding
+author: Qi Xia
+email: qi_xia@smail.nju.edu.cn
+description: > # this means to ignore newlines until "show_exerpts:"
+  Project pages for neural object coding
+show_excerpts: true # set to true to show excerpts on the homepage
+baseurl: /texture
+
+# Minima date format
+# refer to http://shopify.github.io/liquid/filters/date/ if you want to customize this
+sass:
+  sass_dir: _sass
+
+permalink: /posts/:title/
+texture:
+  title: Neural Object Coding
+  tagline: Qi Xia 
+  date_format: "%b, %Y"
+  style: black
+  showNav: false
+  showPicker: true
+
+  # generate social links in footer
+  '''social_links:
+    twitter: thelehhman
+    github:  thelehhman
+    linkedIn: in/thelehhman
+    rss: rss'''
+ 
+
+# If you want to link only specific pages in your header, uncomment
+# this and add the path to the pages in order as they should show up
+#header_pages:
+# - about.md
+
+# Build settings
+# theme: texture
+
+plugins:
+  - jekyll-seo-tag
+#  - jekyll-feed
