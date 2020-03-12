@@ -4,8 +4,8 @@ email: your-email@domain.com
 description: > # this means to ignore newlines until "show_exerpts:"
   Project pages for neural object coding.
 show_excerpts: true # set to true to show excerpts on the homepage
-baseurl: 
 
+remote_theme: thelehhman/texture
 # Minima date format
 # refer to http://shopify.github.io/liquid/filters/date/ if you want to customize this
 sass:
@@ -34,7 +34,7 @@ texture:
 # - about.md
 
 # Build settings
-# theme: texture
+theme: texture
 
 plugins:
   - jekyll-seo-tag
