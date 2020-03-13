@@ -3,7 +3,7 @@
 	<h1>{{ page.title }}</h1>
 	<h4 class="post-description">{{ page.description }}</h4>
 	<div class="post-date" style="margin-top:20px">
-		ICME2020 {{ page.date | date: date_format }}
+		{{page.journal}} {{ page.date | date: date_format }}
 	</div>
 	<ul class="post-tags">
 		{%- for tag in page.categories -%}
