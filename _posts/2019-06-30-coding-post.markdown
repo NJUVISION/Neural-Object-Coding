@@ -15,7 +15,7 @@ The Object-Based Image Coding (OBIC) that was extensively studied about two deca
 * Modularized functional components for supporting parallel processing and future extension (e.g., multiple image layers, different utility loss, substream extraction, etc)
 
 # Framework
-![](https://github.com/NJUVISION/Neural-Object-Coding/blob/master/images/framework.pdf, "framework")
+<embed width="700" height="400" src="./images/framework.pdf"> </embed>
 **Fig.1. LearntOBIC.** A two-layer structure is exemplified with upper part for object and lower part for background. Image segmentation uses the [DeepLab](https://arxiv.org/abs/1606.00915) with ResNet-34 as backbone, while a variational autoencoder (VAE) based [NLAIC](https://arxiv.org/abs/1910.06244) is used to process masked image layers in parallel. Q is for quantization, AE and AD are for respective arithmetic encoding and decoding.
 
 # Experimental Results
