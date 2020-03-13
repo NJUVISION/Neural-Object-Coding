@@ -14,7 +14,9 @@ sass:
 permalink: /posts/:title/
 texture:
   title: Neural Object Coding
-  tagline: Developer. Designer
+  tagline1: Nanjing University, Vision Lab
+  tagline2: Qi Xia
+  
   date_format: "%b, %Y"
   style: black
   showNav: false
