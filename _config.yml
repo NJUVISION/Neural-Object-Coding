@@ -11,7 +11,7 @@ remote_theme: thelehhman/texture
 sass:
   sass_dir: _sass
 
-exclude: [vendor]
+exclude: vendor
 
 permalink: /posts/:title/
 texture:
