@@ -26,6 +26,7 @@ The Object-Based Image Coding (OBIC) that was extensively studied about two deca
  ave. bpp|0.0675|0.0671|0.0636|0.0648
  MS-SSIM|0.8339|0.8669|0.9083|0.8992
  PSNR|23.27|24.08|23.36|22.71
+ 
  **Table.1. Objective result** on PASCAL VOC 2012 test set.
 
 # Resource
