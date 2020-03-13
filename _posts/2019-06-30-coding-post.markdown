@@ -24,6 +24,7 @@ The Object-Based Image Coding (OBIC) that was extensively studied about two deca
 **Fig.2. Visual comparison** Reconstructed snapshots processed by JPEG2K, BPG, NLAIC and proposed LearntOBIC using PASCAL VOC 2012 and Kodak test images. Our method achieves significantly better subjective quality.
 
  ![](https://njuvision.github.io/Neural-Object-Coding/images/objectresult.png)
+ 
  **Table.1. Objective result** on PASCAL VOC 2012 test set.
 
 ## Resource
