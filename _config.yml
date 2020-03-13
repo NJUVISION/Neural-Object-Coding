@@ -15,16 +15,16 @@ permalink: /posts/:title/
 texture:
   title: Neural Object Coding
   tagline: Developer. Designer
-  date_format: "%b %-d, %Y"
+  date_format: "%b, %Y"
   style: black
   showNav: false
-  showPicker: true
+  showPicker: false
 
   # generate social links in footer
   social_links:
-    twitter: thelehhman
-    github:  thelehhman
-    linkedIn: in/thelehhman
+    twitter: 
+    github:  
+    linkedIn:
     rss: rss
  
 
