@@ -3,7 +3,7 @@ layout: post
 title:  "Object-Based Image Coding: A Learning-Driven Revisit"
 description: Qi Xia&emsp;Haojie Liu&emsp;Zhan Ma
 journal: ICME2020
-date: <%= format(Sys.time(), "%B, %Y")%>
+date: 2020-7-06
 ---
 
 ## Abstract
