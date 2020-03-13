@@ -11,6 +11,8 @@ remote_theme: thelehhman/texture
 sass:
   sass_dir: _sass
 
+exclude: [vendor]
+
 permalink: /posts/:title/
 texture:
   title: Neural Object Coding
