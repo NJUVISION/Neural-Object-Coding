@@ -19,8 +19,8 @@ The Object-Based Image Coding (OBIC) that was extensively studied about two deca
 **Fig.1. LearntOBIC.** A two-layer structure is exemplified with upper part for object and lower part for background. Image segmentation uses the [DeepLab](https://arxiv.org/abs/1606.00915) with ResNet-34 as backbone, while a variational autoencoder (VAE) based [NLAIC](https://arxiv.org/abs/1910.06244) is used to process masked image layers in parallel. Q is for quantization, AE and AD are for respective arithmetic encoding and decoding.
 
 ## Experimental Results
-![visual result](https://github.com/NJUVISION/Neural-Object-Coding/blob/master/images/visualresult1.png)
-![visual result](https://github.com/NJUVISION/Neural-Object-Coding/blob/master/images/visualresult2.png)
+![visual result](../images/visualresult1.png)
+![visual result](../images/visualresult2.png)
 **Fig.2. Visual comparison** Reconstructed snapshots processed by JPEG2K, BPG, NLAIC and proposed LearntOBIC using PASCAL VOC 2012 and Kodak test images. Our method achieves significantly better subjective quality.
 
  ![](https://github.com/NJUVISION/Neural-Object-Coding/blob/master/images/objectresult.png)
@@ -28,4 +28,6 @@ The Object-Based Image Coding (OBIC) that was extensively studied about two deca
 
 ## Resource
 Code: [Link](https://github.com/Qi-X/Object_Coding)
+
+
 Paper: Available soon
